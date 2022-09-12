@@ -1,6 +1,8 @@
 git 学习
 张腾飞
-
+public void show(){
+log.info("show方法")
+}
 
 
 
